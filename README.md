@@ -28,3 +28,4 @@ khai báo sử dụng slot với v-slot trên tag template
   + HƯớng dẫn cài Vue devtools, tắt Adblock đi nhưng vẫn dùng chưa được.
   + Select Components trong Vue app 
   + Theo dõi sự kiện thông qua Events
+  + Setting Vue devtools
