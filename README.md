@@ -25,6 +25,6 @@ khai báo sử dụng slot với v-slot trên tag template
   + Sử dụng Bootstrap đã import bằng cú pháp Vue.use
   
 -  Giới thiệu Vue devTools
-  +  HƯớng dẫn cài Vue devtools, tắt Adblock đi nhưng vẫn dùng chưa được.
-  +  Select Components trong Vue app 
-  +  Theo dõi sự kiện thông qua Events
+  + HƯớng dẫn cài Vue devtools, tắt Adblock đi nhưng vẫn dùng chưa được.
+  + Select Components trong Vue app 
+  + Theo dõi sự kiện thông qua Events
